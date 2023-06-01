@@ -20,3 +20,13 @@ Inoltre, il progetto include anche un indicatore di forza della password basato 
 - Se la password ha almeno un carattere speciale e una lunghezza di 10 caratteri, la forza della password è considerata 2.
 
 - Se la password ha almeno due carattere speciali, una lunghezza di 10 caratteri e più, la forza della password è considerata 3.
+
+
+# Live Demo
+
+https://davidebenedetti95.github.io/Validate-Form/
+
+
+# Crediti
+
+Questo progetto è stato realizzato come parte del corso [Maestro Javascript](https://www.udemy.com/course/maestro-javascript/) 
