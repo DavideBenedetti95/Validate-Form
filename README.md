@@ -1,7 +1,7 @@
 
 # Validation-Form
 
-Questo è un repository GitHub per un progetto che implementa la validazione di un form di login utilizzando JavaScript. Il progetto include le seguenti regole di validazione per il form di login:
+Questo progetto implementa la validazione di un form di login utilizzando JavaScript. Il progetto include le seguenti regole di validazione per il form di login:
 
 - Controllo della lunghezza della password: La password deve essere di una determinata lunghezza minima per essere considerata valida. La lunghezza minima verrà specificata all'interno del codice.
 
