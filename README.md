@@ -26,6 +26,10 @@ Inoltre, il progetto include anche un indicatore di forza della password basato 
 
 https://davidebenedetti95.github.io/Validate-Form/
 
+Alternative Link
+
+https://validate-form-phi.vercel.app
+
 
 # Crediti
 
